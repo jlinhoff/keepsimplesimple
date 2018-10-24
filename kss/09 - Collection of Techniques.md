@@ -3,7 +3,8 @@
 
 ---
 
-<p>Keep simple simple.</p>
+<p>Keep simple simple.<br>
+This is a collection of techniques and code that work together to form a scalable framework that keeps simple simple as it grows.</p>
 <h2 id="techniques">techniques</h2>
 <ul>
 <li>directory layout</li>
